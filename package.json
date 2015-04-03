@@ -1,0 +1,27 @@
+{
+  "name": "cmdy",
+  "version": "1.0.0",
+  "description": "A simple CLI-building tool for Node.js inspired by Python's cmd library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulcw/cmdy.git"
+  },
+  "keywords": [
+    "CLI",
+    "cmd.py",
+    "REPL"
+  ],
+  "author": "Paul Workman",
+  "license": "Dunno_yet_talk_to_me_if_you_care",
+  "bugs": {
+    "url": "https://github.com/paulcw/cmdy/issues"
+  },
+  "homepage": "https://github.com/paulcw/cmdy",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
